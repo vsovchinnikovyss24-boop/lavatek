@@ -1,0 +1,16 @@
+{
+  "name": "Калькулятор ППУ Лаватек",
+  "short_name": "ППУ Лаватек",
+  "description": "Расчёт цены напыления ППУ для менеджеров Лаватек",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2D3035",
+  "theme_color": "#2D3035",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
